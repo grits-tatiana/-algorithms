@@ -14,6 +14,7 @@ int main()
     cout << "Введите n:" << endl;
     cin >> n;
     cout<<"Квадраты чисел от 1 до n"<<endl;
+    
     for (int i = 0; i < n; i++)
     {
         delta = i + i + 1;
